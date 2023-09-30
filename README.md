@@ -4,8 +4,16 @@ TECH-NERDS-19/TECH-NERDS-19 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm TECH-NERDS</h1>
-<h3 align="center">ᴛᴜʀɴɪɴɢ ᴅʀᴇᴀᴍꜱ ɪɴᴛᴏ ᴄᴏᴅᴇ.</h3>
+<p align="center">
+  <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=𝐓𝐞𝐜𝐡𝐍𝐞𝐫𝐝𝐬&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;NDRK%20First%2Grade%20Collage,%20Hassan&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+ᴛᴜʀɴɪɴɢ ᴅʀᴇᴀᴍꜱ ɪɴᴛᴏ ᴄᴏᴅᴇ.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
