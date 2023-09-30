@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
 
-<p align="left"> <a href="https://instagram.com/technerds_club" target="blank"><img src="https://img.shields.io/instagram/follow/technerds_club?logo=instagram&style=for-the-badge" alt="technerds_club" /></a> </p>
+<p align="left"> <a href="https://instagram.com/technerds_club" target="blank"><img src="https://img.shields.io/badge/-Floow Instagram-orange?style=for-the-badge&logo=instagram" alt="technerds_club" /></a> </p>
 
 - 📫 How to reach me tanmoybera9330315363@gmail.com
 
