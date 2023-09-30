@@ -8,19 +8,19 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=𝐓𝐞𝐜𝐡𝐍𝐞𝐫𝐝𝐬&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
-
+   
 <p align="center">
   <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;NDRK%20First%20Grade%20Collage,%20Hassan&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;ɴᴅʀᴋ%20ꜰɪʀꜱᴛ%20ɢʀᴀᴅᴇ%20ᴄᴏʟʟᴇɢᴇ,%20ʜᴀꜱꜱᴀɴ&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-ᴛᴜʀɴɪɴɢ ᴅʀᴇᴀᴍꜱ ɪɴᴛᴏ ᴄᴏᴅᴇ.
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 ## Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
 
-<p align="left"> <a href="https://twitter.com/tanmoy_2002" target="blank"><img src="https://img.shields.io/twitter/follow/tanmoy_2002?logo=twitter&style=for-the-badge" alt="tanmoy_2002" /></a> </p>
+<p align="left"> <a href="https://instagram.com/technerds_club" target="blank"><img src="https://img.shields.io/instagram/follow/technerds_club?logo=instagram&style=for-the-badge" alt="technerds_club" /></a> </p>
 
 - 📫 How to reach me tanmoybera9330315363@gmail.com
 
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 # Community ❤️
 </p>
 <p align="center">
-<a href="https://instagram.com/technerds_2023"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TechNerds_Club"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/technerds_club"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TechNerds_Club"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
