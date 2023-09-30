@@ -18,12 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact I am little bit funny😁
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanmoy_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmoy_2002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tanmoy-bera-0a2a4a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanmoy-bera-0a2a4a214/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tanmoy.bera.1447342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanmoy.bera.1447342" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_hey_its_tanmoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_hey_its_tanmoy/" height="30" width="40" /></a>
+# Community ❤️
+</p>
+<p align="center">
+<a href="https://instagram.com/technerds_2023"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TechNerds_Club"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
