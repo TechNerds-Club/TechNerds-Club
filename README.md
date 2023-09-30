@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;NDRK%20First%2Grade%20Collage,%20Hassan&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;NDRK%20First%20Grade%20Collage,%20Hassan&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 ᴛᴜʀɴɪɴɢ ᴅʀᴇᴀᴍꜱ ɪɴᴛᴏ ᴄᴏᴅᴇ.
 
