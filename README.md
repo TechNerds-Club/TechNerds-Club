@@ -48,3 +48,18 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/cd6bcd7f-cc9c-4cdb-b763-9fe0a9535d25)
 
 
+
+js
+https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/d0cbae96-b6e0-490b-997a-e0323e1a0a97
+
+css
+https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/bd814d55-d81a-49d4-8128-459010fdfa4d
+
+html
+![image](https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/5c133f22-f440-4f4f-a7fe-294a9e6ab1fb
+
+java
+![image](https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/1a69b156-42d7-4b9e-b9e8-1f4bfaf9c5ce)
+
+
+
