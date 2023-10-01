@@ -20,19 +20,18 @@ You can click the Preview link to take a look at your changes.
 ![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
 
 <!--##Coding Gif-->
-<br><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"> <br>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"> 
 
 <!--##Instagram
 <p align="left"> <a href="https://instagram.com/technerds_club" target="blank"><img src="https://img.shields.io/badge/Follow-Instagram-blue?style=for-the-badge&logo=instagram&labelColor=blue" alt="technerds_club" /></a> </p>-->
 
-# Community ❤️
+<h1 font-size="50px">Community ❤️</h1>
 </p>
 <p align="center">
 <a href="https://instagram.com/technerds_club"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TechNerds_Club"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p><br>
+</p>
 
 <!--##Programming Languages-->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/d38d108f-7c3d-4256-9d8a-d4aaadc2ad0d" alt="c" width="60" height="40"/> </a> &nbsp
@@ -42,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/42015b1f-2030-47a0-8e7b-7c64a669786e" alt="java" width="40" height="40"/> </a> &nbsp
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/d0cbae96-b6e0-490b-997a-e0323e1a0a97" alt="javascript" width="40" height="40"/> </a> &nbsp
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/eed31f55-13d4-48c3-88f0-bc9c500ff819" alt="mysql" width="40" height="40"/> </a> 
-</p>
+</p> <br>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
 [![Stats](https://github-readme-stats.vercel.app/api?username=TECH-NERDS-19&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TECH-NERDS-19/github-readme-stats)
