@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;ɴᴅʀᴋ%20ꜰɪʀꜱᴛ%20ɢʀᴀᴅᴇ%20ᴄᴏʟʟᴇɢᴇ,%20ʜᴀꜱꜱᴀɴ&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!--## Profile views counter-->
+## Profile views 
 ![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
 
 <!--##Coding Gif-->
