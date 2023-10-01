@@ -45,5 +45,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/7e33f77d-7bde-49db-88ae-cde5b4eb3e32" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ![image](https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/0cb07b06-65ae-4e42-b58a-cbb26ce52f2a)
+![image](https://github.com/TECH-NERDS-19/TECH-NERDS-19/assets/145664570/cd6bcd7f-cc9c-4cdb-b763-9fe0a9535d25)
 
 
