@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;ɴᴅʀᴋ%20ꜰɪʀꜱᴛ%20ɢʀᴀᴅᴇ%20ᴄᴏʟʟᴇɢᴇ,%20ʜᴀꜱꜱᴀɴ&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!--##Coding Gif-->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
-
 <!--## Profile views counter-->
 ![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
+
+<!--##Coding Gif-->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <!--##Instagram-->
 <p align="left"> <a href="https://instagram.com/technerds_club" target="blank"><img src="https://img.shields.io/badge/Follow-Instagram-blue?style=for-the-badge&logo=instagram&labelColor=blue" alt="technerds_club" /></a> </p>
