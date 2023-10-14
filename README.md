@@ -6,18 +6,18 @@ You can click the Preview link to take a look at your changes.
 
 <!---##TechNerds text--->
 <p align="center">
-  <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
+  <a href="https://github.com/TechNerds-Club/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=𝐓𝐞𝐜𝐡𝐍𝐞𝐫𝐝𝐬&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 <!--##Description text-->
 <p align="center">
-  <a href="https://github.com/TECH-NERDS-19/readme-typing-svg">
+  <a href="https://github.com/TechNerds-Club/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=ᴛᴜʀɴɪɴɢ%20ᴅʀᴇᴀᴍꜱ%20ɪɴᴛᴏ%20ᴄᴏᴅᴇ.;ɴᴅʀᴋ%20ꜰɪʀꜱᴛ%20ɢʀᴀᴅᴇ%20ᴄᴏʟʟᴇɢᴇ,%20ʜᴀꜱꜱᴀɴ&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ## Profile views 
-![Visitor Count](https://profile-counter.glitch.me/{TECH-NERDS-19}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{TechNerds-Club}/count.svg)
 
 <!--##Coding Gif-->
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"> 
@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 </p> <br>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Stats](https://github-readme-stats.vercel.app/api?username=TECH-NERDS-19&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TECH-NERDS-19/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TECH-NERDS-19&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECH-NERDS-19&layout=compact&theme=tokyonight" align="center">
+[![Stats](https://github-readme-stats.vercel.app/api?username=TechNerds-Club&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/TECH-NERDS-19/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TechNerds-Club&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNerds-Club&layout=compact&theme=tokyonight" align="center">
 
 
